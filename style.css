@@ -50,7 +50,7 @@
 .content{
     width: 100%;
     position: absolute;
-    top: 50%;
+    top: 25%;
     transform: translateY(-50%);
     text-align: center;
     color: #fff;
